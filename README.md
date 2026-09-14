@@ -25,7 +25,7 @@ class TatiaGabunia:
         "RAG systems · embeddings · LangChain retrieval",
         "REST APIs · backend services · real estate data",
     ]
-    open_to      = "AI / Software engineering roles"
+    open_to = "AI / Software engineering roles"
 ```
 
 <br clear="right"/>
