@@ -29,19 +29,7 @@ class TatiaGabunia:
 
 <br clear="right"/>
 
----
 
-### A Little About Me Outside of Code
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oqpnczA6AQlcf4Q1A/giphy.gif" width="700" height="250"/>
-
-*"My magic is never giving up."* — Asta, Black Clover
-
-</div>
-
----
 
 ### Tech Stack
 
@@ -53,45 +41,6 @@ class TatiaGabunia:
 
 </div>
 
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [RSHub](https://github.com/tatuliusi/RSHub) | Multi-agent real-estate intelligence platform — planner, retriever, synthesizer & critic agents with FastAPI, Docker, evaluation & observability | Python · LangGraph · FastAPI · Docker |
-| [project-based-study-space](https://github.com/tatuliusi/project-based-study-space) | 10 production-grade LangGraph agent projects — RAG, evals, memory engine, SWE agent, reasoning swarm | LangGraph · FAISS · Qdrant · Postgres |
-
----
-
-### LangGraph Portfolio — 10 Projects Shipped
-
-| # | Project | Stack |
-|---|---------|-------|
-| 01 | RAG Q&A Agent | LangGraph · FAISS · Streamlit |
-| 02 | Multi-source Research Agent | LangGraph · Tavily · Pydantic |
-| 03 | Code Review Multi-Agent | LangGraph Supervisor · GitHub API |
-| 04 | Autonomous Data Analyst | LangGraph · Code Execution · Pandas |
-| 05 | Production Support System | LangGraph · FastAPI · Postgres |
-| 06 | Research-to-Report Pipeline | Send API · APScheduler · Redis |
-| 07 | Semantic Memory Engine | Qdrant · Postgres · APScheduler |
-| 08 | LLM Eval & Quality Gate | LLM-as-Judge · Postgres · GitHub Actions |
-| 09 | Autonomous SWE Agent | Docker SDK · GitHub API · Tree-sitter |
-| 10 | Multi-Agent Reasoning Swarm | Subgraphs · SSE · Postgres |
-
----
-
-### Education & Certifications
-
-| |                             |
-|---|-----------------------------|
-| BSc Information Technology | BTU Tbilisi                 |
-| MBA in DevOps | BTU Tbilisi *(in progress)* |
-| Advanced Software Development | GITA — DSA, CI/CD pipelines |
-| PCAP — Python Certified Associate Programmer | OpenEDG                     |
-| Python Developer Specialization | SCSA                        |
-
----
 
 ### GitHub Stats
 
